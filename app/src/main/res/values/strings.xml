@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Receptek</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="liked">Kedvelt</string>
+    <string name="name">Név</string>
+    <string name="description">Elkészítés</string>
+    <string name="category">Kategória</string>
+    <string name="estimated_time">Elkészítési idő (perc)</string>
+    <string name="new_food_item">Új étel</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="title_activity_details">Receptek</string>
+    <string name="elkeszites">Elkészítés</string>
+
+    <string-array name="category_items">
+        <item>Előétel</item>
+        <item>Főétel</item>
+        <item>Desszert</item>
+    </string-array>
+</resources>
